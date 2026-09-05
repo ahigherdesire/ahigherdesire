@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi! I'm Xinyuan [ahigherdesire](https://github.com/ahigherdesire). I'm a passionate student that loves math and web dev!<br>(This is my new account, I lost my old account: [lxysgp](https://github.com/lxysgp)<br>
+[Personal Site](https://lxysg.com)
 ### Here are some things I found interesting/useful:
 - [zero-md](https://github.com/zerodevx/zero-md) lets you embed and render Markdown files directly in HTML with one simple tag
 - [hexauth](https://hexauth.coding398.dev/) a free, managed service that lets you add “Sign in with…” OAuth providers in minutes
