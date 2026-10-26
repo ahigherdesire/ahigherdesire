@@ -9,6 +9,7 @@ I enjoy building things for the web, experimenting with new technologies, and ex
 > Previously [@lxysgp](https://github.com/lxysgp). This is my new GitHub account.
 
 ## 🚀 Projects
+### More on [my website](https://lxysg.com)!
 
 ### [Dih Client](https://dih.lxysg.com)
 A Minecraft client project.
