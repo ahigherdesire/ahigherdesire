@@ -3,12 +3,13 @@ Hi! I'm Xinyuan [ahigherdesire](https://github.com/ahigherdesire). I'm a passion
 [Personal Site](https://lxysg.com)
 ### Here are some things I found interesting/useful:
 - [zero-md](https://github.com/zerodevx/zero-md) lets you embed and render Markdown files directly in HTML with one simple tag
-- [hexauth](https://hexauth.coding398.dev/) a free, managed service that lets you add “Sign in with…” OAuth providers in minutes
+- [hexauth](https://hexauth.coding398.dev/) a free, managed service that lets you add “Sign in with…” OAuth providers in minutes (Update: Sadly, it is depreciated)
 - [the evolution of trust](https://ncase.me/trust/) interactive, browser-based explainer that uses game theory
 
 Heres a [link](https://www.stoponlineidchecks.org/#sign) or [two](https://www.makedmssafe.com/) for you to look at!
 # Projects:
-[Gem Incremental](https://gemincremental.com) game
+[Dih Client for Minecraft](dih.lxysg.com) 
+
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@XYSG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:h2510079@nushigh.edu.sg) 
