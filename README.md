@@ -7,6 +7,8 @@ I enjoy building things for the web, experimenting with new technologies, and ex
 [**Website**](https://lxysg.com) · [**GitHub**](https://github.com/ahigherdesire) · [**YouTube**](https://youtube.com/@XYSG)
 
 > Previously [@lxysgp](https://github.com/lxysgp). This is my new GitHub account.
+## Currently Doing
+> building a study platform which aims to become the one-stop tool for ALL revision and studying for school 
 
 ## 🚀 Projects
 ### More on [my website](https://lxysg.com)!
