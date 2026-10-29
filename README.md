@@ -41,13 +41,20 @@ An artificial intelligence model for Polytrack.
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
+
 ## 📊 GitHub Stats
+
 <details>
-  <summary>Stats</summary>
+<summary>Stats</summary>
+
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=ahigherdesire&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ahigherdesire&theme=github-dark-blue&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=ahigherdesire&theme=github_dark&hide_border=true&layout=compact)
+
 </details>
+
 ## 🔎 Interesting Finds
 
 A few projects and websites I've come across that I think are worth checking out.
